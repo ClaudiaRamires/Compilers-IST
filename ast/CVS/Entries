@@ -1,0 +1,24 @@
+/.cvsignore/1.1/Thu Mar  4 19:31:49 2021//
+/evaluation_node.h/1.2/Sat Mar 20 16:03:11 2021//
+/if_else_node.h/1.2/Sat Mar 20 22:28:13 2021//
+/if_node.h/1.2/Sat Mar 20 22:28:13 2021//
+/address_node.h/1.2/Thu May 20 20:23:16 2021//
+/block_node.h/1.3/Thu May 20 20:23:02 2021//
+/declaration_variable_node.h/1.4/Thu May 20 20:23:27 2021//
+/function_call_node.h/1.4/Thu May 20 20:22:52 2021//
+/function_decl_node.h/1.2/Wed May 26 13:07:33 2021//
+/identity_node.h/1.4/Thu May 20 20:22:23 2021//
+/index_node.h/1.2/Thu May 20 20:23:59 2021//
+/indexationptr_node.h/1.4/Thu May 20 20:23:59 2021//
+/leave_node.h/1.2/Thu May 20 20:23:59 2021//
+/memory_reserve_node.h/1.4/Thu May 20 20:23:59 2021//
+/nullptr_node.h/1.2/Thu May 20 20:24:43 2021//
+/prologo_node.h/1.4/Thu May 20 20:24:43 2021//
+/read_node.h/1.3/Wed May 19 15:23:15 2021//
+/restart_node.h/1.2/Thu May 20 20:24:43 2021//
+/size_of_node.h/1.2/Thu May 20 20:24:43 2021//
+/while_node.h/1.2/Wed May 26 10:57:14 2021//
+/return_node.h/1.4/Thu May 20 20:24:43 2021//
+/write_node.h/1.3/Thu May 27 11:48:26 2021//
+/function_def_node.h/1.6/Thu May 27 22:19:45 2021//
+D
